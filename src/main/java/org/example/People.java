@@ -4,4 +4,9 @@ public class People {
     int age;
     int height;
     String name;
+
+    People(int age, int height, String name) {
+        this.age = age;
+        this.height = height;
+    }
 }
