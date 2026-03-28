@@ -13,7 +13,12 @@ public class People {
     People(int age, int height) {
         // stash
         // 2 line
+
+        // ok
+        // not ok
         this.age = age;
         this.height = height;
+
+        // hunk 2
     }
 }
