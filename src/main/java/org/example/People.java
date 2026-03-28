@@ -9,4 +9,9 @@ public class People {
         this.age = age;
         this.height = height;
     }
+
+    People(int age, int height) {
+        this.age = age;
+        this.height = height;
+    }
 }
