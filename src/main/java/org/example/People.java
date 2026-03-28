@@ -11,6 +11,7 @@ public class People {
     }
 
     People(int age, int height) {
+        // 2 line
         this.age = age;
         this.height = height;
     }
