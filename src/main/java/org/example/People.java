@@ -2,6 +2,7 @@ package org.example;
 
 public class People {
     //people
+    // new version
     int age;
     int height;
     String name;
